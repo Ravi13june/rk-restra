@@ -1,14 +1,11 @@
 import React from "react";
 import Layout from "../common";
-// import GooglePlayIcon from "../../assets/images/google-play.png";
 function Business() {
-
-  console.log("hello business")
   return (
     <Layout>
-    <div className="container  bg-light">
+      <div className="container  bg-light">
         <img alt="business" />
-    </div>
+      </div>
       <div className="container  bg-light">
         <div>
           <h3 className="text-center">Get Started with Zomato for Business</h3>
@@ -79,25 +76,24 @@ function Business() {
       </div>
       <div className="container mt-5 mb-5 bg-light">
         <h3 className="text-center">Claim your listing</h3>
-        </div>
-        <div className="container mt-5 mb-5 bg-light">
+      </div>
+      <div className="container mt-5 mb-5 bg-light">
         <h3 className="text-center">Cannot find your Restaurant?</h3>
         <p className="text-center">
           Fill the form below to create a listing on Clary
         </p>
-        <button className="btn btn-primary text-center">Add a Restaurant</button>
-        </div> 
-        
-        <div className="row">
-         
-          <h3 className="text-center">Want to know more?</h3>
-            <p className="text-center">
-              Please leave your contact details below, and we’ll be in touch
-              within 24 hours
-            </p>
-          </div>
-        
-    
+        <button className="btn btn-primary text-center">
+          Add a Restaurant
+        </button>
+      </div>
+
+      <div className="row">
+        <h3 className="text-center">Want to know more?</h3>
+        <p className="text-center">
+          Please leave your contact details below, and we’ll be in touch within
+          24 hours
+        </p>
+      </div>
     </Layout>
   );
 }
