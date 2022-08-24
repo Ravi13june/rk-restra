@@ -1,0 +1,33 @@
+.clary-nav {
+    padding: 15px
+}
+.navbar-toggler {
+    padding: 5px 8px;
+    border-radius: 2px
+}
+.clary-nav .nav-link {
+    margin: 0;
+    text-align: center;
+    padding: 14px 0!important;
+    border-bottom: 1px solid #eef0ef
+}
+.clary-nav .dropdown-item {
+    text-align: center
+}
+.clary-slider {
+    padding: 18px 0 0!important
+}
+.pt-5,
+.py-5 {
+    padding-top: 3rem!important
+}
+.pb-5,
+.py-5 {
+    padding-bottom: 3rem!important
+}
+.homepage-search-block {
+    padding: 3rem 0!important
+}
+.mobile-none {
+    display: none
+}

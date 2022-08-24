@@ -1,0 +1,39 @@
+.icofont-3x{
+    font-size: 1.6rem;
+}
+.icofont-2x{
+    font-size: 1.3rem;
+}
+.slick-arrow::before{
+    padding:10px 8px 8px 9px;
+    background-color: #fff;
+    color: #7c7c7c;
+    border-radius: 50%;
+}
+.slick-prev{
+    margin-left: 8px;
+    z-index: 1;
+}
+.slick-next{
+    margin-right: 22px;
+    z-index: 1;
+}
+.payment-methods .row{
+    background-color: #ededed;
+    padding:6px 0px;
+    border-radius: 16px;
+}
+.payment-methods .row>div{
+    margin:6px 0 6px;
+    cursor:pointer;
+}
+.payment-methods h4{
+    margin:10px 0;
+}
+
+.selected{
+    color:green
+}
+.vi__container--default{
+    width: 100%!important;
+}
