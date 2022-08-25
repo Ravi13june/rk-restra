@@ -19,7 +19,7 @@ const Header = (props) => {
   }, [user]);
 
   return (
-    <Navbar bg="light" expand="lg" className="clary-nav shadow-sm">
+    <Navbar bg="light" expand="lg" className="rk-restra-nav shadow-sm">
       <div className="container">
         <Navbar.Brand>
           <Link to="/">
@@ -114,7 +114,7 @@ const Header = (props) => {
                     <img
                       alt="user"
                       src="http://via.placeholder.com/300"
-                      className="nav-clary-pic rounded-pill"
+                      className="nav-rk-restra-pic rounded-pill"
                     />
                     My Account
                   </div>

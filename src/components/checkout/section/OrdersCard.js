@@ -4,10 +4,10 @@ import { Link } from "react-router-dom";
 const OrderCard = (props) => {
   return (
     <div
-      className="generator-bg rounded shadow-sm mb-4 p-4 clary-cart-item sticky-top"
+      className="generator-bg rounded shadow-sm mb-4 p-4 rk-restra-cart-item sticky-top"
       style={{ "z-index": 0 }}
     >
-      <div className="d-flex mb-4 clary-cart-item-profile">
+      <div className="d-flex mb-4 rk-restra-cart-item-profile">
         <div className="d-flex flex-column">
           <h6 className="mb-1 text-white">Your Order</h6>
           <p className="mb-0 text-white">

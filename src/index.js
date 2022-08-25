@@ -6,8 +6,6 @@ import initStore from "./store";
 import Routes from "./routes/Routes";
 import "@icon/icofont/icofont.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-//import "./assets/clary.css";
-
 import "./index.css";
 
 ReactDOM.render(

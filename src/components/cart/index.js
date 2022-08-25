@@ -40,6 +40,7 @@ function Cart() {
                                 src="https://media.istockphoto.com/photos/tasty-butter-chicken-curry-dish-from-indian-cuisine-picture-id1300632831?s=612x612"
                                 className="img-fluid"
                                 style={{ height: "60", width: "60px" }}
+                                alt="cart-item"
                               />
                             </div>
                             <figcaption className="info">

@@ -46,13 +46,13 @@ h6 {
     color: #000
 }
 
-.clary-nav {
+.rk-restra-nav {
     background: #fff none repeat scroll 0 0!important;
     padding: 0;
     z-index: 9
 }
 
-.clary-nav .nav-link {
+.rk-restra-nav .nav-link {
     font-weight: 600;
     padding: 28px 0!important;
     margin: 0 0 0 31px
@@ -62,7 +62,7 @@ h6 {
     padding-top: 0!important
 }
 
-.nav-clary-pic {
+.nav-rk-restra-pic {
     width: 32px;
     height: 32px;
     border: 3px solid #fff;
@@ -339,7 +339,7 @@ h6 {
     padding: 6px 7px
 }
 
-.clary-category-item {
+.rk-restra-category-item {
     background: #fff;
     margin: 5px 2px;
     border-radius: 3px;
@@ -350,22 +350,22 @@ h6 {
     border: 1px solid #fff
 }
 
-.clary-category-item:hover {
+.rk-restra-category-item:hover {
     border: 1px solid #ff3008
 }
 
-.clary-category-item h6 {
+.rk-restra-category-item h6 {
     margin: 0;
     font-size: 13px;
     color: #ff3008
 }
 
-.clary-category-item p {
+.rk-restra-category-item p {
     margin: 0;
     font-size: 12px
 }
 
-.clary-category-item img {
+.rk-restra-category-item img {
     width: 40px!important;
     height: 40px;
     object-fit: cover;
@@ -975,24 +975,24 @@ iframe.position-absolute {
     min-width: 157px
 }
 
-.clary-cart-item-profile img {
+.rk-restra-cart-item-profile img {
     width: 40px;
     height: 40px;
     border: 3px solid #fff
 }
 
-.clary-cart-item-profile p {
+.rk-restra-cart-item-profile p {
     font-size: 10px
 }
 
-.clary-payment .nav-link {
+.rk-restra-payment .nav-link {
     padding: 18px 20px;
     border: none;
     font-weight: 600;
     color: #535665
 }
 
-.clary-payment .nav-link i {
+.rk-restra-payment .nav-link i {
     width: 28px;
     height: 28px;
     background: #535665;
@@ -1005,31 +1005,31 @@ iframe.position-absolute {
     color: #fff
 }
 
-.clary-payment .nav-link.active {
+.rk-restra-payment .nav-link.active {
     background: #f3f7f8;
     color: #282c3f!important
 }
 
-.clary-payment .nav-link.active i {
+.rk-restra-payment .nav-link.active i {
     background: #282c3f!important
 }
 
-.clary-payment .tab-content {
+.rk-restra-payment .tab-content {
     background: #f3f7f8;
     padding: 20px
 }
 
-.clary-card i {
+.rk-restra-card i {
     font-size: 35px;
     vertical-align: middle;
     color: #6c757d
 }
 
-.clary-card {
+.rk-restra-card {
     margin: 0 0 0 7px
 }
 
-.clary-payment label {
+.rk-restra-payment label {
     font-size: 12px;
     margin: 0 0 3px;
     font-weight: 600
@@ -1046,14 +1046,14 @@ iframe.position-absolute {
     padding: 7px 0
 }
 
-.clary-account-page-left .nav-link {
+.rk-restra-account-page-left .nav-link {
     padding: 18px 20px;
     border: none;
     font-weight: 600;
     color: #535665
 }
 
-.clary-account-page-left .nav-link i {
+.rk-restra-account-page-left .nav-link i {
     width: 28px;
     height: 28px;
     background: #535665;
@@ -1066,16 +1066,16 @@ iframe.position-absolute {
     color: #fff
 }
 
-.clary-account-page-left .nav-link.active {
+.rk-restra-account-page-left .nav-link.active {
     background: #f3f7f8;
     color: #282c3f!important
 }
 
-.clary-account-page-left .nav-link.active i {
+.rk-restra-account-page-left .nav-link.active i {
     background: #282c3f!important
 }
 
-.clary-user-media img {
+.rk-restra-user-media img {
     width: 90px
 }
 
@@ -1155,20 +1155,20 @@ iframe.position-absolute {
     border-radius: 2px
 }
 
-.clary-cart-item p.text-gray.float-right {
+.rk-restra-cart-item p.text-gray.float-right {
     margin: 3px 0 0;
     font-size: 12px
 }
 
-.clary-cart-item .food-item {
+.rk-restra-cart-item .food-item {
     vertical-align: bottom
 }
 
-.clary-track-order-page {
+.rk-restra-track-order-page {
     min-height: 676px
 }
 
-.clary-point {
+.rk-restra-point {
     z-index: 1;
     width: 50%;
     border-radius: 50%;
@@ -1246,13 +1246,13 @@ footer {
     .homepage-add-section {
         padding: 0 13px
     }
-    .breadcrumb-clary h1 {
+    .breadcrumb-rk-restra h1 {
         font-size: 34px
     }
-    .breadcrumb-clary h6 {
+    .breadcrumb-rk-restra h6 {
         font-size: 15px
     }
-    .breadcrumb-clary {
+    .breadcrumb-rk-restra {
         padding-left: 15px;
         padding-right: 15px
     }
@@ -1283,23 +1283,23 @@ footer {
     .homepage-ad .item {
         padding: 0 2px
     }
-    .clary-nav {
+    .rk-restra-nav {
         padding: 15px
     }
     .navbar-toggler {
         padding: 5px 8px;
         border-radius: 2px
     }
-    .clary-nav .nav-link {
+    .rk-restra-nav .nav-link {
         margin: 0;
         text-align: center;
         padding: 14px 0!important;
         border-bottom: 1px solid #eef0ef
     }
-    .clary-nav .dropdown-item {
+    .rk-restra-nav .dropdown-item {
         text-align: center
     }
-    .clary-slider {
+    .rk-restra-slider {
         padding: 18px 0 0!important
     }
     .pt-5,
@@ -1360,13 +1360,13 @@ footer {
     .address-map.float-right.ml-5 iframe {
         width: 100%
     }
-    .clary-track-order-detail p.text-gray.mb-5 {
+    .rk-restra-track-order-detail p.text-gray.mb-5 {
         margin: 1px 0 11px!important
     }
-    .clary-account-page-left .nav-tabs {
+    .rk-restra-account-page-left .nav-tabs {
         padding-left: 0!important
     }
-    .clary-account-page-left {
+    .rk-restra-account-page-left {
         height: auto!important;
         margin: 0 0 15px
     }
@@ -1386,14 +1386,14 @@ footer {
         font-size: 13px;
         text-transform: capitalize
     }
-    .clary-payment .col-sm-4.pr-0 {
+    .rk-restra-payment .col-sm-4.pr-0 {
         padding-right: 15px!important
     }
-    .clary-payment .col-sm-8.pl-0 {
+    .rk-restra-payment .col-sm-8.pl-0 {
         padding-left: 15px!important;
         margin: 14px 0 0
     }
-    .p-5.clary-invoice.bg-white.shadow-sm {
+    .p-5.rk-restra-invoice.bg-white.shadow-sm {
         padding: 15px!important
     }
     .h3,
@@ -1403,7 +1403,7 @@ footer {
     .p-5 {
         padding: 20px!important
     }
-    .clary-account-page-right {
+    .rk-restra-account-page-right {
         padding: 0!important;
         border: none;
         background: transparent!important;
@@ -1448,23 +1448,23 @@ footer {
     .container {
         max-width: 100%
     }
-    .clary-nav {
+    .rk-restra-nav {
         padding: 15px
     }
     .navbar-toggler {
         padding: 5px 8px;
         border-radius: 2px
     }
-    .clary-nav .nav-link {
+    .rk-restra-nav .nav-link {
         margin: 0;
         text-align: center;
         padding: 14px 0!important;
         border-bottom: 1px solid #eef0ef
     }
-    .clary-nav .dropdown-item {
+    .rk-restra-nav .dropdown-item {
         text-align: center
     }
-    .clary-slider {
+    .rk-restra-slider {
         padding: 18px 0 0!important
     }
     .pt-5,
@@ -1525,20 +1525,20 @@ footer {
     .address-map.float-right.ml-5 iframe {
         width: 100%
     }
-    .clary-payment .nav-link i {
+    .rk-restra-payment .nav-link i {
         display: block;
         margin: 0 auto 10px
     }
-    .clary-payment .nav-link {
+    .rk-restra-payment .nav-link {
         text-align: center
     }
-    .clary-track-order-detail p.text-gray.mb-5 {
+    .rk-restra-track-order-detail p.text-gray.mb-5 {
         margin: 1px 0 11px!important
     }
-    .clary-account-page-left .nav-tabs {
+    .rk-restra-account-page-left .nav-tabs {
         padding-left: 0!important
     }
-    .clary-account-page-left {
+    .rk-restra-account-page-left {
         height: auto!important;
         margin: 0 0 15px
     }
@@ -1564,23 +1564,23 @@ footer {
     .container {
         max-width: 100%
     }
-    .clary-nav {
+    .rk-restra-nav {
         padding: 15px
     }
     .navbar-toggler {
         padding: 5px 8px;
         border-radius: 2px
     }
-    .clary-nav .nav-link {
+    .rk-restra-nav .nav-link {
         margin: 0;
         text-align: center;
         padding: 14px 0!important;
         border-bottom: 1px solid #eef0ef
     }
-    .clary-nav .dropdown-item {
+    .rk-restra-nav .dropdown-item {
         text-align: center
     }
-    .clary-slider {
+    .rk-restra-slider {
         padding: 18px 0 0!important
     }
     .pt-5,
@@ -1635,20 +1635,20 @@ footer {
     .address-map.float-right.ml-5 iframe {
         width: 100%
     }
-    .clary-payment .nav-link i {
+    .rk-restra-payment .nav-link i {
         display: block;
         margin: 0 auto 10px
     }
-    .clary-payment .nav-link {
+    .rk-restra-payment .nav-link {
         text-align: center
     }
-    .clary-track-order-detail p.text-gray.mb-5 {
+    .rk-restra-track-order-detail p.text-gray.mb-5 {
         margin: 1px 0 11px!important
     }
-    .clary-account-page-left .nav-tabs {
+    .rk-restra-account-page-left .nav-tabs {
         padding-left: 0!important
     }
-    .clary-account-page-left {
+    .rk-restra-account-page-left {
         height: auto!important;
         margin: 0 0 15px
     }

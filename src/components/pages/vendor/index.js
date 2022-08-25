@@ -96,7 +96,7 @@ function Vendor() {
         <div className="container">
           <div className="row ml-5">
             <div className="mt-5 mx-3">
-              <h1 className="text-white">Partner with clary</h1>
+              <h1 className="text-white">Partner with rk-restra</h1>
               <p className="text-white">for free and and more customers!</p>
             </div>
           </div>

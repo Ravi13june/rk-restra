@@ -5,7 +5,7 @@ import Layout from "../common";
 const CheckoutSuccess = (props) => {
   return (
     <Layout>
-      <section className="section pt-5 pb-5 clary-not-found-page">
+      <section className="section pt-5 pb-5 rk-restra-not-found-page">
         <div className="container">
           <div className="row">
             <div className="text-center py-2 col-md-12">

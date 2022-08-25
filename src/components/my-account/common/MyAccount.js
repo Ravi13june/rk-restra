@@ -8,20 +8,20 @@ const MyAccount = (props) => {
 
   return (
     <Layout>
-      <section className="section pt-4 pb-4 clary-account-page">
+      <section className="section pt-4 pb-4 rk-restra-account-page">
         <div className="container">
           <div className="row">
             <div className="col-md-3">
-              <div className="clary-account-page-left shadow-sm bg-white h-100">
+              <div className="rk-restra-account-page-left shadow-sm bg-white h-100">
                 <div className="border-bottom p-4">
-                  <div className="clary-user text-center">
-                    <div className="clary-user-media">
+                  <div className="rk-restra-user text-center">
+                    <div className="rk-restra-user-media">
                       <img
                         src="http://via.placeholder.com/300"
-                        alt="gurdeep singh clary"
+                        alt="gurdeep singh rk-restra"
                         className="mb-3 rounded-pill shadow-sm mt-1"
                       />
-                      <div className="clary-user-media-body">
+                      <div className="rk-restra-user-media-body">
                         <h6 className="mb-2">Ravi</h6>
                         <p className="mb-1">+91 9090909090</p>
                         <p>rkrestra@gmail.com</p>

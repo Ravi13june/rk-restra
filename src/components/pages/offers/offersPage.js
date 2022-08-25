@@ -9,7 +9,7 @@ const OfferPage = () => {
   return (
     <Layout>
       <>
-        <section className="breadcrumb-clary pt-5 pb-5 bg-dark position-relative text-center">
+        <section className="breadcrumb-rk-restra pt-5 pb-5 bg-dark position-relative text-center">
           <h1 className="text-white">Offers for you</h1>
           <h6 className="text-white-50">
             Explore top deals and offers exclusively for you!
