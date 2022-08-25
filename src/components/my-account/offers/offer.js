@@ -11,10 +11,10 @@ const Offer = (props) => {
             OSAHANEAT50
           </h5>
           <h6 className="card-subtitle mb-2 text-block">
-            Get 50% OFF on your first clary eat order
+            Get 50% OFF on your first rk-restra eat order
           </h6>
           <p className="card-text">
-            Use code OSAHANEAT50 &amp; get 50% off on your first clary order on
+            Use code OSAHANEAT50 &amp; get 50% off on your first rk-restra order on
             Website and Mobile site. Maximum discount: $200
           </p>
           <button type="button" className="card-btn mr-3 p-0 btn btn-link">

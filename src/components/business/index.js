@@ -100,7 +100,6 @@ function Business() {
 
 export default Business;
 
-// Get Started with clary for Business reusable cards
 
 const BusinessCard = (props) => {
   return (

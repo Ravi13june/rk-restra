@@ -80,7 +80,7 @@ const PaymentMethod = (props) => {
   );
 
   // return (
-  //   <div className="bg-white rounded shadow-sm p-4 clary-payment">
+  //   <div className="bg-white rounded shadow-sm p-4 rk-restra-payment">
   //     <h4 className="mb-1">Choose payment method</h4>
   //     <h6 className="mb-3 text-black-50">Credit/Debit Cards</h6>
   //     <div className="row">
@@ -159,7 +159,7 @@ const PaymentMethod = (props) => {
   //             <h6 className="mb-3 mt-0 mb-3">Add new card</h6>
   //             <p>
   //               WE ACCEPT
-  //               <span className="clary-card">
+  //               <span className="rk-restra-card">
   //                 <i className="icofont icofont-visa-alt" />
   //                 <i className="icofont icofont-mastercard-alt" />
   //                 <i className="icofont icofont-american-express-alt" />
@@ -254,7 +254,7 @@ const PaymentMethod = (props) => {
   //             <h6 className="mb-3 mt-0 mb-3">Add new food card</h6>
   //             <p>
   //               WE ACCEPT
-  //               <span className="clary-card">
+  //               <span className="rk-restra-card">
   //                 <i className="icofont icofont-sage-alt" />
   //                 <i className="icofont icofont-stripe-alt" />
   //                 <i className="icofont icofont-google-wallet-alt-1" />

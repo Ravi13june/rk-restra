@@ -5,7 +5,7 @@ import MyAccount from "./common/MyAccount";
 const MyAccountNotFound = (props) => {
   return (
     <MyAccount>
-      <section className="section pt-5 pb-5 clary-not-found-page">
+      <section className="section pt-5 pb-5 rk-restra-not-found-page">
         <div className="container">
           <div className="row">
             <div className="text-center pt-5 pb-5 col-md-12">
