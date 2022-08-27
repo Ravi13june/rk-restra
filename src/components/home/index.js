@@ -1,8 +1,8 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
+import { useDispatch } from "react-redux";
 import Layout from "../common";
 import HomeSearch from "./section/HomeSearch";
 import Restaurants from "./section/Restaurants";
-import { useDispatch } from "react-redux";
 import { getHomeData } from "../../store/home/homeAction";
 
 const Home = (props) => {

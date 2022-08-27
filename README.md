@@ -3,7 +3,8 @@
 
 This is a Food Ordering Website, with all unique functionality.
 
-
+# Preview
+https://rk-restra.netlify.app/
 
 ## Installation 
 

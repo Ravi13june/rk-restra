@@ -1,4 +1,3 @@
-import React from "react";
 import MyAccount from "../common/MyAccount";
 import Address from "./address";
 

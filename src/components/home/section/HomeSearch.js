@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import { useSelector } from "react-redux";
 import { CategorySlider } from "./CategorySlider";
 import "slick-carousel/slick/slick.css";

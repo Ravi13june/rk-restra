@@ -1,5 +1,3 @@
-import React from "react";
-
 const Address = (props) => {
   const { address } = props;
   return (

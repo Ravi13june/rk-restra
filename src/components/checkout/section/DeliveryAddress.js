@@ -1,4 +1,3 @@
-import React from "react";
 const Location = (props) => {
   return (
     <div className="col-12 d-flex align-self-center">

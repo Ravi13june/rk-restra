@@ -1,4 +1,3 @@
-import React from "react";
 import Layout from "../common";
 function Business() {
   return (
@@ -19,7 +18,7 @@ function Business() {
         <h3 className="text-center">Get Started with Zomato for Business</h3>
         <div className="row">
           <div className="col-md-4">
-            <BusinessCard text="You need to claim your listing before you use the Clary for Business App. Claim Now" />
+            <BusinessCard text="You need to claim your listing before you use the RK-Restra for Business App. Claim Now" />
           </div>
           <div className="col-md-4">
             <BusinessCard text="Download the app and login using the same credentials you used to claim your listing. Send me the link" />
@@ -31,7 +30,7 @@ function Business() {
       </div>
       <div className="container mt-5 mb-5  bg-light">
         <h3 className="text-center">
-          What you can do with the Clary for Business app
+          What you can do with the RK-Restra for Business app
         </h3>
         <div className="row">
           <div className="col-md-4">
@@ -80,7 +79,7 @@ function Business() {
       <div className="container mt-5 mb-5 bg-light">
         <h3 className="text-center">Cannot find your Restaurant?</h3>
         <p className="text-center">
-          Fill the form below to create a listing on Clary
+          Fill the form below to create a listing on RK-Restra
         </p>
         <button className="btn btn-primary text-center">
           Add a Restaurant

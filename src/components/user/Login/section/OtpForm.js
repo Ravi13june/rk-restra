@@ -1,7 +1,7 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { sendOtpToUser, verifyOtp } from "../../../../store/user/userAction";
 import VerificationInput from "react-verification-input";
+import { sendOtpToUser, verifyOtp } from "../../../../store/user/userAction";
 
 const OtpForm = (props) => {
   const dispatch = useDispatch();

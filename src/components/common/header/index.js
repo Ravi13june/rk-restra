@@ -1,9 +1,9 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import { Link } from "react-router-dom";
-import Logo from "../../../assets/images/RK-Restra.png";
-import { Nav, Navbar, NavDropdown, NavLink } from "react-bootstrap";
 import { useDispatch, useSelector } from "react-redux";
+import { Nav, Navbar, NavDropdown, NavLink } from "react-bootstrap";
 import { logout } from "../../../store/user/userAction";
+import Logo from "../../../assets/images/RK-Restra.png";
 
 const Header = (props) => {
   const user = useSelector((state) => state.user.user);
