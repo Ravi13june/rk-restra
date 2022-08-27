@@ -1,7 +1,7 @@
 import { useState } from "react";
+import { Redirect } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { updateUserDetails } from "../../../../store/user/userAction";
-import { Redirect } from "react-router-dom";
 
 const UpdateUserDetailsForm = (props) => {
   const dispatch = useDispatch();
@@ -52,8 +52,7 @@ const UpdateUserDetailsForm = (props) => {
             className="form-control"
           />
         </div>
-
-        <div className="form-group">
+<div className="form-group">
           <label>Email</label>
           <input
             type="email"
@@ -63,8 +62,7 @@ const UpdateUserDetailsForm = (props) => {
             className="form-control"
           />
         </div>
-
-        <button
+ <button
           className="btn btn-lg btn-primary btn-block btn-login text-uppercase mb-2"
           disabled={values.buttonDisabled}
           onClick={(event) => {
