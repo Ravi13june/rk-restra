@@ -1,4 +1,3 @@
-import React from "react";
 import Layout from "../common";
 import Recommend from "./section/Recommend";
 import DeliveryAddress from "./section/DeliveryAddress";

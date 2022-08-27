@@ -26,7 +26,7 @@ const data = {
   title: "Frequently asked questions",
   rows: [
     {
-      title: "What will Clary charge me for creating a page on its platform?",
+      title: "What will RK-Restra charge me for creating a page on its platform?",
       content:
         "Creating a restaurant page on Zomato is free of cost. You can maintain your page by replying to reviews and do a lot more without any charges.",
     },
@@ -37,13 +37,13 @@ const data = {
     },
     {
       title:
-        "I have a large fleet of delivery boys, why should I use Clary’s delivery service?",
+        "I have a large fleet of delivery boys, why should I use RK-Restra’s delivery service?",
       content:
         "You can use your and Zomato's delivery fleet simultaneously to increase the network of your delivery radius. Also, our delivery fleet delivers orders in minimum possible time, a key factor leading to increased customer satisfaction.",
     },
     {
       title:
-        "What happens if the average order value of Clary orders is very low",
+        "What happens if the average order value of RK-Restra orders is very low",
       content:
         "Average order value from our platform is generally more than Rs 250. However, in some cases, users want to try out your place by ordering for lesser amount. But we have observed that they eventually come back with higher value orders if they like your food.",
     },
@@ -117,9 +117,9 @@ function Vendor() {
       <div className="container my-5">
         <div className="container">
           <div>
-            <h1 className="text-center">Why should you partner with Clary?</h1>
+            <h1 className="text-center">Why should you partner with RK-Restra?</h1>
             <p className="text-center">
-              Clary enables you to get 60% more revenue, 10x new customers and
+              RK-Restra enables you to get 60% more revenue, 10x new customers and
               boost your brand visibility by provinding insights to improve your
               business.
             </p>
@@ -168,9 +168,9 @@ function Vendor() {
                   src="https://media.istockphoto.com/vectors/clipboard-with-checklist-vector-id913685766?k=6&m=913685766&s=612x612&w=0&h=xX7loea5wgcXa1BfznMNaXpANSQcCAq71qEUelSm1Ek="
                 />
                 <h3 className="text-center">Step 1</h3>
-                <h6 className="text-center">Create your page at Clary</h6>
+                <h6 className="text-center">Create your page at RK-Restra</h6>
                 <p className="text-center">
-                  Help users discover your place by creating on Clary
+                  Help users discover your place by creating on RK-Restra
                 </p>
               </div>
             </div>
@@ -260,13 +260,13 @@ function Vendor() {
               chooseIcon="https://media.istockphoto.com/photos/warehouse-manager-with-digital-tablet-picture-id1079548876?k=6&m=1079548876&s=612x612&w=0&h=sHOips8iOt6a6RjSZLZJX11mMRbA2zCP-h-AxFlU2C0="
               alt="listing-icon"
               title="Listings"
-              subtitle="A free app that allows you to manage your Clary listing directly from your smartphone"
+              subtitle="A free app that allows you to manage your RK-Restra listing directly from your smartphone"
             />
             <Cards
               chooseIcon="https://cdn.pixabay.com/photo/2018/09/11/17/38/delivery-3670118__340.jpg"
               alt="online ordering"
               title="Online Ordering"
-              subtitle="Start taking orders online from millions of users near you and deliver with Clary..."
+              subtitle="Start taking orders online from millions of users near you and deliver with RK-Restra..."
             />
             <Cards
               chooseIcon="https://media.istockphoto.com/photos/trendy-modern-bar-picture-id182177971?k=6&m=182177971&s=612x612&w=0&h=YOgnKbcn_CWNAdvYxH0O-VjDb-qWsGKpjrgzzBBCqZk="
@@ -318,17 +318,17 @@ function Vendor() {
         <div className="row">
           <Carousel breakPoints={partnerBrackpoint}>
             <PartnerCards
-              msg="We are immensely satisfied with the marketing push Clary has provided us. We are now exclusive with Clary and look forward to more growth in our delivery business through online orders."
+              msg="We are immensely satisfied with the marketing push RK-Restra has provided us. We are now exclusive with RK-Restra and look forward to more growth in our delivery business through online orders."
               name="Ravi Kishan"
               resName="Owner - Chicago BR, Varanasi"
             />
             <PartnerCards
-              msg="Clary delivery fleet saves considerable effort on our part resulting in more fulfilled orders for us. Also, it has now become much easier for customers to discover our brand on Clary."
+              msg="RK-Restra delivery fleet saves considerable effort on our part resulting in more fulfilled orders for us. Also, it has now become much easier for customers to discover our brand on RK-Restra."
               name="Ravi Kishan"
               resName="Owner - Chicago BR, Varanasi"
             />
             <PartnerCards
-              msg="We are immensely satisfied with the marketing push Clary has provided us. We are now exclusive with Clary and look forward to more growth in our delivery business through online orders."
+              msg="We are immensely satisfied with the marketing push RK-Restra has provided us. We are now exclusive with RK-Restra and look forward to more growth in our delivery business through online orders."
               name="Ravi Kishan"
               resName="Owner - Chicago BR, Varanasi"
             />
@@ -338,7 +338,7 @@ function Vendor() {
       <div className="container my-5">
         <h2 className="text-center">What do you get on sign-up</h2>
         <p className="text-center">
-          Clary Partner Platform helps you take your business to new heights
+          RK-Restra Partner Platform helps you take your business to new heights
           instantly with no hassle and 100% transparency!
         </p>
         <div className="row">
@@ -355,7 +355,7 @@ function Vendor() {
         <div className="row">
           <div className="col-md-6">
             <h1 className="text-center">
-              Cannot find your favourite restaurant on Clary?
+              Cannot find your favourite restaurant on RK-Restra?
             </h1>
             <h6 className="text-center">
               Submit the details and our team will get the restaurant onboard

@@ -1,12 +1,12 @@
-import React, { useEffect, useState } from "react";
-import Layout from "../../common";
-import PhoneInput from "react-phone-input-2";
-import "react-phone-input-2/lib/style.css";
+import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
+import PhoneInput from "react-phone-input-2";
+import Layout from "../../common";
 import { sendOtpToUser } from "../../../store/user/userAction";
 import OtpForm from "../Login/section/OtpForm";
 import UpdateUserDetailsForm from "../Login/section/UpdateUserDetailsForm";
-import { Link } from "react-router-dom";
+import "react-phone-input-2/lib/style.css";
 
 const Signup = (props) => {
   const dispatch = useDispatch();
@@ -24,7 +24,7 @@ const Signup = (props) => {
     if (user?.success) {
       setValues({ ...values, currentForm: "otpForm" });
     }
-  }, [user,values]);
+  }, [user, values]);
 
   const onSendOtp = () => {
     dispatch(sendOtpToUser(values.input));

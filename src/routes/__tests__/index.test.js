@@ -14,5 +14,5 @@ test("Routes Render Test with Home Page", () => {
       </Provider>
     </React.StrictMode>
   );
-  expect(screen.getByText(/About Clary/i)).toBeInTheDocument();
+  expect(screen.getByText(/About RK-Restra/i)).toBeInTheDocument();
 });

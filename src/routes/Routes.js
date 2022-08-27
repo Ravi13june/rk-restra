@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import Home from "../components/home";
 import NotFound from "../components/common/NotFound";
@@ -35,17 +35,13 @@ const Routes = (props) => {
     <BrowserRouter>
       <Switch>
         <Route exact path="/" component={Home} />
-
         <Route exact path="/offers" component={OfferPage} />
         <Route exact path="/cart" component={Cart} />
-
         <LoginRoute exact path="/login" component={Login} />
         <LoginRoute exact path="/signup" component={Signup} />
-
         <Route exact path="/checkout" component={Checkout} />
         <Route exact path="/checkout/success" component={CheckoutSuccess} />
         <Route exact path="/page/:slug" component={Pages} />
-
         {/*My Account*/}
         <PrivateRoute exact path="/my-account/orders" component={Orders} />
         <PrivateRoute exact path="/my-account/offers" component={Offers} />
@@ -70,7 +66,7 @@ const Routes = (props) => {
         <Route exact path="/map" component={Map} />
         <Route exact path="/map" component={Map} />
         <Route exact path="/contact" component={Contact} />
-       {/* <Route exact path="/vendor" component={Vendor} /> */}
+        {/* <Route exact path="/vendor" component={Vendor} /> */}
         <Route exact path="/business" component={Business} />
         <Route component={NotFound} />
       </Switch>

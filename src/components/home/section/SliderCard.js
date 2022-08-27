@@ -1,7 +1,6 @@
-
 const SliderCard = ({ href, img }) => {
   return (
-    <div className="owl-item cloned" >
+    <div className="owl-item cloned">
       <div className="item">
         <div className="products-box">
           <a href={href}>
@@ -14,4 +13,3 @@ const SliderCard = ({ href, img }) => {
 };
 
 export default SliderCard;
-

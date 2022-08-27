@@ -1,11 +1,11 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { updateUserDetails } from "../../../../store/user/userAction";
 import { Redirect } from "react-router-dom";
 
 const UpdateUserDetailsForm = (props) => {
   const dispatch = useDispatch();
-  //const user = useSelector((state) => state.user.data);
+  const user = useSelector((state) => state.user.data);
   const [values, setValues] = useState({
     input: {
       userName: "",
